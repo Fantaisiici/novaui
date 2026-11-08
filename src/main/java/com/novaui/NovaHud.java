@@ -3,7 +3,6 @@ package com.novaui;
 import net.fabricmc.fabric.api.client.rendering.v1.hud.HudElement;
 import net.fabricmc.fabric.api.client.rendering.v1.hud.HudElementRegistry;
 import net.fabricmc.fabric.api.client.rendering.v1.hud.VanillaHudElements;
-import net.minecraft.Util;
 import net.minecraft.client.DeltaTracker;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiGraphicsExtractor;
